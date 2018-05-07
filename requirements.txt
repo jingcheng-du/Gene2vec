@@ -1,0 +1,4 @@
+tensorflow>=1.6.0
+gensim>=3.4.0
+numpy>=1.14.0
+matplotlib>=2.1.2
