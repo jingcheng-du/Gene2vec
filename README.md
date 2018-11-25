@@ -104,13 +104,14 @@ SEMA5B	-0.110593590242
 
 ## Citation
 
-If you use these codes in your publications, please cite this [paper](https://www.biorxiv.org/content/early/2018/03/22/286096):
+If you use these codes in your publications, please cite this [paper](https://www.biorxiv.org/content/early/2018/05/19/286096):
 
 ```
 @article{2018gene2vec,
   title={{Gene2Vec}: Distributed Representation of Genes Based on Co-Expression},
   author={Du, Jingcheng and Jia, Peilin and Dai, YuLin and Tao, Cui and Zhao, Zhongming and Zhi, Degui},
   journal={bioRxiv},
-  year={2018}
+  year={2018},
+  doi = {10.1101/286096}
 }
 ```
