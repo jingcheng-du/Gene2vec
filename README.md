@@ -1,6 +1,6 @@
 # Gene2vec
 Codes repository for paper "Gene2Vec: Distributed Representation of Genes Based on Co-Expression".
-This work will be presented at [ICIBM](http://icibm2018.zhaobioinfo.org/).
+This work was presented at [ICIBM](http://icibm2018.zhaobioinfo.org/).
 
 We've provided a pre-trained gene2vec file that achieved best clusteredness in our experiment, see pre_trained_emb/gene2vec_dim_200_iter_9.txt.
 ## Installing Gene2vec
@@ -104,14 +104,19 @@ SEMA5B	-0.110593590242
 
 ## Citation
 
-If you use these codes in your publications, please cite this [paper](https://www.biorxiv.org/content/early/2018/05/19/286096):
+If you use these codes in your publications, please cite this [paper](https://doi.org/10.1186/s12864-018-5370-x):
 
 ```
 @article{2018gene2vec,
-  title={{Gene2Vec}: Distributed Representation of Genes Based on Co-Expression},
-  author={Du, Jingcheng and Jia, Peilin and Dai, YuLin and Tao, Cui and Zhao, Zhongming and Zhi, Degui},
-  journal={bioRxiv},
-  year={2018},
-  doi = {10.1101/286096}
+  title="Gene2vec: distributed representation of genes based on co-expression",
+  journal="BMC Genomics",
+  year="2019",
+  month="Feb",
+  day="04",
+  volume="20",
+  number="1",
+  pages="82"author={Du, Jingcheng and Jia, Peilin and Dai, YuLin and Tao, Cui and Zhao, Zhongming and Zhi, Degui},
+  issn="1471-2164",
+  doi="10.1186/s12864-018-5370-x"
 }
 ```
