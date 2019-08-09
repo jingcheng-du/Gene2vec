@@ -1,7 +1,7 @@
 # Gene2vec
 **\*\*\*\*\* New: August 9th, 2019 update \*\*\*\*\***
 
-We provided the evaluation script using target function proposed in the manuscript, as well as gene2vec file in word2vec format.
+We provided the evaluation script using target function proposed in the manuscript, as well as a gene2vec file in word2vec format.
 
 ## Introduction
 Gene2Vec is a distributed representation of genes based on co-expression. From a pure data-driven fashion, we trained a 
