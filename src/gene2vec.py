@@ -88,5 +88,5 @@ for current_iter in range(1,max_iter+1):
         model.save(export_dir+"gene2vec_dim_"+str(dimension)+"_iter_"+str(current_iter))
         if txtOutput:
             gM.outputTxt(export_dir+"gene2vec_dim_"+str(dimension)+"_iter_"+str(current_iter))
-        print("gene2vec dimension " + str(dimension) + " iteration " + str(current_iter) + " start")
+        print("gene2vec dimension " + str(dimension) + " iteration " + str(current_iter) + " done")
         del model

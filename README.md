@@ -1,8 +1,13 @@
 # Gene2vec
-Codes repository for paper "Gene2Vec: Distributed Representation of Genes Based on Co-Expression".
-This work was presented at [ICIBM](http://icibm2018.zhaobioinfo.org/).
+**\*\*\*\*\* New: August 9th, 2019 update \*\*\*\*\***
 
-We've provided a pre-trained gene2vec file that achieved best clusteredness in our experiment, see pre_trained_emb/gene2vec_dim_200_iter_9.txt.
+We provided the evaluation script using target function proposed in the manuscript, as well as gene2vec file in word2vec format.
+
+## Introduction
+Gene2Vec is a distributed representation of genes based on co-expression. From a pure data-driven fashion, we trained a 
+200-dimension vector representation of all human genes, using gene co-expression patterns in 984 data sets from the GEO databases.
+
+In this repository, we provided the relevent codes as well as pre-trained gene2vec files.
 ## Installing Gene2vec
 
 ### Requirements
