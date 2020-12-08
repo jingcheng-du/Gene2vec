@@ -1,0 +1,10 @@
+^DATABASE = Geo
+!Database_name = Gene Expression Omnibus (GEO)
+!Database_institute = NCBI NLM NIH
+!Database_web_link = http://www.ncbi.nlm.nih.gov/geo
+!Database_email = geo@ncbi.nlm.nih.gov
+!Database_ref = Nucleic Acids Res. 2005 Jan 1;33 Database Issue:D562-6
+^DATASET = GDS5420
+!dataset_title = Psoriasis response to brodalumab: dose response and time course
+!dataset_description = Analysis of non-lesional and lesional psoriatic skins for up to 43 days following treatment with various doses of brodalumab, a human IgG2 mAb that selectively binds and blocks signaling through IL-17RA. Results provide insight into the molecular effect of blocking IL-17 signaling in psoriatic skin.
+!dataset_type = Expression profiling by array
