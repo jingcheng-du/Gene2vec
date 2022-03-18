@@ -4,7 +4,7 @@
 We provided the evaluation script using target function proposed in the manuscript, as well as a gene2vec file in word2vec format.
 
 ## Introduction
-Gene2Vec is a distributed representation of genes based on co-expression. From a pure data-driven fashion, we trained a 
+Gene2Vec is a distributed representation of genes based on co-expression. From a pure data-driven fashion, we trained a
 200-dimension vector representation of all human genes, using gene co-expression patterns in 984 data sets from the GEO databases.
 
 In this repository, we provided the relevent codes as well as pre-trained gene2vec files.
@@ -24,6 +24,8 @@ git clone https://github.com/jingcheng-du/Gene2vec.git
 cd Gene2vec/
 pip install -r requirements.txt
 ```
+
+*NOTE: If you get an error with `certifi`, add `--ignore-installed certifi` to the end of the `pip install` command.*
 
 ## Usage
 
